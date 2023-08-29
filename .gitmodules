@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:yasitan/api.git
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:yasitan/webapp.git
