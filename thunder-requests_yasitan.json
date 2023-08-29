@@ -1,7 +1,7 @@
 {
     "client": "Thunder Client",
     "collectionName": "yasitan",
-    "dateExported": "2023-08-29T00:02:23.260Z",
+    "dateExported": "2023-08-29T10:06:13.691Z",
     "version": "1.1",
     "folders": [
         {
@@ -55,12 +55,12 @@
             "_id": "2dde31a7-791f-46d3-a315-905763dc7937",
             "colId": "1b911ffb-8ba5-481e-9788-f3215fa63ad5",
             "containerId": "ca365d16-02fa-4ad4-bbc5-7242bc5b9ed1",
-            "name": "get current user",
+            "name": "get conversations",
             "url": "{{api-endpoint}}/conversations",
             "method": "GET",
             "sortNum": 40000,
             "created": "2023-08-25T02:06:15.471Z",
-            "modified": "2023-08-27T02:19:27.604Z",
+            "modified": "2023-08-29T09:55:32.976Z",
             "headers": [
                 {
                     "name": "Authorization",
@@ -68,11 +68,6 @@
                 }
             ],
             "params": [],
-            "body": {
-                "type": "json",
-                "raw": "{\n  \"email\": \"hai.le@gmail.com\",\n  \"password\": \"haile\"\n}",
-                "form": []
-            },
             "tests": []
         },
         {
@@ -84,7 +79,7 @@
             "method": "POST",
             "sortNum": 50000,
             "created": "2023-08-27T02:19:13.987Z",
-            "modified": "2023-08-27T03:21:30.394Z",
+            "modified": "2023-08-29T10:05:55.250Z",
             "headers": [
                 {
                     "name": "Authorization",
@@ -92,11 +87,6 @@
                 }
             ],
             "params": [],
-            "body": {
-                "type": "json",
-                "raw": "{\n  \"email\": \"hai.le@gmail.com\",\n  \"password\": \"haile\"\n}",
-                "form": []
-            },
             "tests": []
         },
         {
@@ -132,7 +122,7 @@
             "method": "GET",
             "sortNum": 70000,
             "created": "2023-08-27T03:22:02.156Z",
-            "modified": "2023-08-27T03:24:41.863Z",
+            "modified": "2023-08-29T09:19:16.586Z",
             "headers": [
                 {
                     "name": "Authorization",
@@ -140,11 +130,6 @@
                 }
             ],
             "params": [],
-            "body": {
-                "type": "json",
-                "raw": "{\n  \"email\": \"hai.le@gmail.com\",\n  \"password\": \"haile\"\n}",
-                "form": []
-            },
             "tests": []
         }
     ]

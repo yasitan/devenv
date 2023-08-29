@@ -2,7 +2,7 @@
 
 Welcome to **YASITAN**, a GPT Assistant application where users can ask about anything in the world.
 
-Check out our [Demo](https://youtu.be/_YOe4yvvoN4).
+Check out our [Demo](https://youtu.be/IlPzuUBEqHs).
 
 ## Solutions
 ### System Overview
